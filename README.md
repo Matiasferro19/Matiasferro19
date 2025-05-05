@@ -20,5 +20,42 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Matiasferro19&icon=0&color=0)](https://visitcount.itsvg.in)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+💫 About Me
+👋 Hi! I'm Matias
 
+I'm a self-taught developer with a passion for programming and creative projects. I'm currently looking for job opportunities in web development or general programming. I'm excited to learn, work in teams, and build solutions that make a real impact.
+
+🚀 About Me
+🎯 Actively seeking a job as a developer (remote or hybrid).
+
+💻 I specialize in JavaScript, HTML, CSS, jQuery, Bootstrap, PHP, and WordPress.
+
+🔧 I develop personal projects like custom websites for events, small businesses, and more.
+
+🧠 I'm constantly learning new tools and technologies to improve my skills.
+
+🛠️ Technologies and Tools I Use
+Languages: JavaScript, HTML5, CSS3, PHP
+
+Frameworks & Libraries: jQuery, Bootstrap
+
+CMS: WordPress
+
+Tools: GitHub, Figma, VSCode
+
+Others: Responsive design, web layout
+
+📫 Contact
+If you're looking for someone eager to grow, share ideas, and work on real projects, feel free to contact me!
+
+📧 Email: matias.ferro19@gmail.com
+
+📱 WhatsApp: +54 11 3037-0463
+
+💬 Discord: @matiasf19
+
+🧑‍💻 GitHub: github.com/Matiasferro19
+
+💼 I'm ready to join a team and contribute with everything I know — and everything I’m still excited to learn!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
