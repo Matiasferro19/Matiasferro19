@@ -86,5 +86,5 @@ If you want to connect, collaborate, or share ideas, you can reach me at:
 
 
 
-💼 I'm ready to join a team and contribute with everything I know — and everything I’m still excited to learn!
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
