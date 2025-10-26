@@ -1,5 +1,62 @@
-# 💫 About Me:
-# 👋 ¡Hola! Soy Matias<br><br>Soy un desarrollador autodidacta con pasión por la programación y los proyectos creativos. Actualmente estoy buscando oportunidades laborales en desarrollo web o programación en general. Me entusiasma aprender, trabajar en equipo y construir soluciones que tengan impacto real.<br><br>### 🚀 Sobre mí<br><br>- 🎯 En búsqueda activa de trabajo como programador.<br>- 💻 Me especializo en **JavaScript**, **HTML**, **CSS**, **jQuery**, **Bootstrap**, **PHP** y **WordPress**.<br>- 🔧 Desarrollo proyectos personales como páginas web personalizadas para eventos, emprendimientos y más.<br>- 🧠 Aprendo constantemente nuevas herramientas y tecnologías para mejorar mis habilidades.<br><br>### 🛠️ Tecnologías y herramientas que uso<br><br>- **Lenguajes:** JavaScript, HTML5, CSS3, PHP  <br>- **Frameworks y librerías:** jQuery, Bootstrap  <br>- **CMS:** WordPress  <br>- **Herramientas:** GitHub, Figma, VSCode, Stackblitz.<br>- **Otros:** Diseño responsive, maquetación web<br><br>### 📫 Contacto<br><br>Si estás buscando a alguien con muchas ganas de crecer, aportar ideas y trabajar en proyectos reales, ¡no dudes en contactarme!<br><br>- 📧 Email: **matias.ferro19@gmail.com**  <br>- 📱 WhatsApp: **+54 11 3037-0463**  <br>- 💬 Discord: **@matiasf19**  <br>- 🧑‍💻 GitHub: [github.com/Matiasferro19](https://github.com/Matiasferro19)<br><br>---<br><br>💼 **¡Estoy listo para sumarme a un equipo y aportar con todo lo que sé y lo que quiero seguir aprendiendo!**<br>
+# 💫 About Me / Sobre mí
+
+👋 ¡Hola! Soy Matías, desarrollador autodidacta apasionado por la programación, los proyectos creativos y la inteligencia artificial.  
+Actualmente estoy aprendiendo y desarrollando habilidades en desarrollo web y programación en general, y **estoy en búsqueda de oportunidades laborales para seguir creciendo**.
+
+Hi! I'm Matías, a self-taught developer passionate about programming, creative projects, and artificial intelligence.  
+I am currently learning and developing skills in web development and programming in general, and **I am looking for job opportunities to keep growing**.
+
+---
+
+### 🚀 Sobre mí / About Me
+
+- 🎯 En búsqueda activa de aprendizaje, proyectos para practicar y oportunidades laborales.  
+- 💻 He realizado cursos en **HTML, CSS, JavaScript, PHP, SQL y WordPress**.  
+- 🤖 Me interesa y aplico **inteligencia artificial** en algunos proyectos y experimentos.  
+- 🧠 Me gusta aprender constantemente nuevas tecnologías y herramientas.
+
+Actively seeking learning opportunities, projects to practice, and job opportunities.  
+I have completed courses in **HTML, CSS, JavaScript, PHP, SQL, and WordPress**.  
+I am interested in and apply **artificial intelligence** in some projects and experiments.  
+I enjoy constantly learning new technologies and tools.
+
+---
+
+### 🛠️ Tecnologías y herramientas / Technologies & Tools
+
+- **Lenguajes / Languages:** HTML5, CSS3, JavaScript, PHP, SQL  
+- **Frameworks y librerías / Frameworks & Libraries:** Bootstrap  
+- **CMS:** WordPress  
+- **Herramientas / Tools:** GitHub, Figma, VSCode, Stackblitz  
+- **Otros / Others:** Diseño responsive, maquetación web, uso de IA en proyectos / Responsive design, web layout, AI projects
+
+---
+
+### 📜 Certificaciones / Certifications
+
+- **Google Cloud Essentials** – Google Cloud Skills Boost (Exp. Sept 2025)  
+  Aptitudes: Google Cloud Platform (GCP)  
+- **Get Started with Google Workspace Tools Skill Badge** – Google (Exp. Aug 2025)  
+  Aptitudes: Google Drive, Appsheet, Gmail, Nocode, Desarrollo de Apps, Google Calendar, Google Sheets, Google Workspace  
+- **Introducción a IA Generativa / Intro to Generative AI** – Google (Exp. Aug 2025)  
+  Aptitudes: Fundamentos de IA generativa / Fundamentals of generative AI
+
+---
+
+### 📫 Contacto / Contact
+
+Si querés conectar, colaborar o compartir ideas, podés contactarme por:  
+If you want to connect, collaborate, or share ideas, you can reach me at:  
+
+- 📧 Email: matias.ferro19@gmail.com  
+- 📱 WhatsApp: +54 11 3037-0463  
+- 💬 Discord: @matiasf19  
+- 🧑‍💻 GitHub: [github.com/Matiasferro19](https://github.com/Matiasferro19)
+
+---
+
+💼 ¡Estoy listo para seguir aprendiendo, explorar nuevas tecnologías, aportar con mis conocimientos y sumarme a un equipo como desarrollador!  
+💼 I'm ready to keep learning, explore new technologies, contribute with my knowledge, and join a team as a developer!
 
 
 ## 🌐 Socials:
@@ -21,41 +78,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Matiasferro19&icon=0&color=0)](https://visitcount.itsvg.in)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-💫 About Me
-👋 Hi! I'm Matias
 
-I'm a self-taught developer with a passion for programming and creative projects. I'm currently looking for job opportunities in web development or general programming. I'm excited to learn, work in teams, and build solutions that make a real impact.
 
-🚀 About Me
-🎯 Actively seeking a job as a developer (remote or hybrid).
-
-💻 I specialize in JavaScript, HTML, CSS, jQuery, Bootstrap, PHP, and WordPress.
-
-🔧 I develop personal projects like custom websites for events, small businesses, and more.
-
-🧠 I'm constantly learning new tools and technologies to improve my skills.
-
-🛠️ Technologies and Tools I Use
-Languages: JavaScript, HTML5, CSS3, PHP
-
-Frameworks & Libraries: jQuery, Bootstrap
-
-CMS: WordPress
-
-Tools: GitHub, Figma, VSCode
-
-Others: Responsive design, web layout
-
-📫 Contact
-If you're looking for someone eager to grow, share ideas, and work on real projects, feel free to contact me!
-
-📧 Email: matias.ferro19@gmail.com
-
-📱 WhatsApp: +54 11 3037-0463
-
-💬 Discord: @matiasf19
-
-🧑‍💻 GitHub: github.com/Matiasferro19
 
 💼 I'm ready to join a team and contribute with everything I know — and everything I’m still excited to learn!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
