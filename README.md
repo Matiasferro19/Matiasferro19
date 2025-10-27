@@ -48,7 +48,7 @@ I enjoy constantly learning new technologies and tools.
 Si querés conectar, colaborar o compartir ideas, podés contactarme por:  
 If you want to connect, collaborate, or share ideas, you can reach me at:  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/5491123456789)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/541130370463)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/?view=cm&to=matias.ferro19@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat)](https://discord.com/users/638870404701880354)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ferromatias/)
