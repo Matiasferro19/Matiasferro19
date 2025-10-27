@@ -53,7 +53,8 @@ If you want to connect, collaborate, or share ideas, you can reach me at:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat)](https://discord.com/users/638870404701880354)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matias-ferro-0a8b672a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-%2312100E?logo=github&logoColor=white)](https://github.com/Matiasferro19)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/matiben__/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/matiben__/)
+
 
 ---
 
