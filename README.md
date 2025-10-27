@@ -49,7 +49,7 @@ Si querés conectar, colaborar o compartir ideas, podés contactarme por:
 If you want to connect, collaborate, or share ideas, you can reach me at:  
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/5491123456789)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matias.ferro19@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?logo=gmail&logoColor=white&style=flat)](mailto:matias.ferro19@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat)](https://discord.com/users/638870404701880354)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ferromatias/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-%2312100E?logo=github&logoColor=white)](https://github.com/Matiasferro19)
