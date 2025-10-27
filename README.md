@@ -8,7 +8,7 @@ I am currently learning and developing skills in web development and programming
 
 ---
 
-### 🚀 Sobre mí / About Me
+### 
 
 - 🎯 En búsqueda activa de aprendizaje, proyectos para practicar y oportunidades laborales.  
 - 💻 He realizado cursos en **HTML, CSS, JavaScript, PHP, SQL y WordPress**.  
