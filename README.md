@@ -27,9 +27,10 @@ I enjoy constantly learning new technologies and tools.
 - **Lenguajes / Languages:** HTML5, CSS3, JavaScript, PHP, SQL  
 - **Frameworks y librerías / Frameworks & Libraries:** Bootstrap  
 - **CMS:** WordPress  
-- **Herramientas / Tools:** GitHub, Figma, VSCode, Stackblitz  
-- **Otros / Others:** Diseño responsive, maquetación web, uso de IA en proyectos / Responsive design, web layout, AI projects
+- **Herramientas / Tools:** GitHub, Figma, VSCode, Stackblitz
 - **Automatización / Automation:** n8n (Automatización de flujos de trabajo)
+- **Otros / Others:** Diseño responsive, maquetación web, uso de IA en proyectos / Responsive design, web layout, AI projects
+
 
 ---
 
