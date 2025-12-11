@@ -28,7 +28,7 @@ I enjoy constantly learning new technologies and tools.
 - **Frameworks y librerías / Frameworks & Libraries:** Bootstrap  
 - **CMS:** WordPress  
 - **Herramientas / Tools:** GitHub, Figma, VSCode, Stackblitz
-- **Automatización / Automation:** n8n (Automatización de flujos de trabajo)
+- **Automatización / Automation:** n8n (Automatización de flujos de trabajo), MCP (Model Context Protocol)
 - **Otros / Others:** Diseño responsive, maquetación web, uso de IA en proyectos / Responsive design, web layout, AI projects
 
 
