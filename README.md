@@ -1,3 +1,10 @@
+## 🌐 Proyecto en Producción
+Plataforma **fulbogoal.com** desarrollada y mantenida por el autor.
+
+👉 https://fulbogoal.com
+
+---
+
 # 💫 About Me / Sobre mí
 
 👋 ¡Hola! Soy Matías, desarrollador autodidacta apasionado por la programación, los proyectos creativos y la inteligencia artificial.  
