@@ -32,7 +32,8 @@ I enjoy constantly learning new technologies and tools.
 ### 🛠️ Tecnologías y herramientas / Technologies & Tools
 
 - **Lenguajes / Languages:** HTML5, CSS3, JavaScript, PHP, SQL  
-- **Frameworks y librerías / Frameworks & Libraries:** Bootstrap  
+- **Frameworks y librerías / Frameworks & Libraries:** Bootstrap
+- **Backend / BaaS:** Firebase (Authentication, Firestore)
 - **CMS:** WordPress  
 - **Herramientas / Tools:** GitHub, Figma, VSCode, Stackblitz, Antigravity IDE, Canva, Notion
 - **Automatización / Automation:** n8n (Automatización de flujos de trabajo), MCP (Model Context Protocol)
